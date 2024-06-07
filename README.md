@@ -36,6 +36,8 @@ precision@k，平均適合率，nDCGなどの複数のランキング評価指�
 #### フロントエンド
 REACTを用いて募集・ピン機能、地図画面をメインに開発を行った。
 
+<img src="https://raw.githubusercontent.com/flatp/random/main/yuruboo.png" alt="example image 1" width="500"/>
+
 #### デザイン
 Adobe Illustratorを用いてロゴ、アイコンの制作を行った。
 <div style="display: flex; gap: 10px;">
