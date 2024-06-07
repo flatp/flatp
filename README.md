@@ -14,9 +14,42 @@ https://www.dl.soc.i.kyoto-u.ac.jp/
 
 # 研究
 ### Adamic-Adar indexの拡張を用いたソーシャルネットワークにおけるユーザ間類似度
+#### 概要
+Adamic–Adar indexを有向グラフに適用できるよう拡張し、各ノードがソーシャルネットワークにおけるユーザ、各エッジがユーザ間のフォロー・フォロワー関係を表した有向グラフを入力として、拡張したAdamic–Adar indexを用いてユーザ間類似度を出力する手法を提案した。
+
+#### 研究意義
+ソーシャルネットワークにおいてユーザ間類似度はフォロー推薦機能やユーザの特性を用いた研究等様々な用途に使われる。ソーシャルネットワークにおけるユーザ間類似度の定義は、SNS上の投稿内容の解析が主流であるが、これを、ユーザ間のフォロイー・フォロワー関係を表した有向グラフのリンク構造のみを用いてユーザ間類似度を定義した。
+
+#### 工夫点
+precision@k，平均適合率，nDCGなどの複数のランキング評価指標を適用し、提案手法を既存手法と比較した。
+
+#### 自身の貢献
+第一著者
 
 # 成果物（技術分野）
 ### 研究科主催アプリ開発コンペ準優勝
+コンテスト形式はハッカソンのようなもので、孤独な大学生に外出とコミュニケーションを促進させるために、コレクション機能を搭載した、地図上で気軽にイベントの作成・募集への参加を行える「ゆる募」アプリを作成した。フロントエンドとデザインを担当。
+https://docs.google.com/presentation/d/16dW5mDs-E-b57yV1MlEZl2V_-FPJZE1hksmoilGRTjo/edit?usp=sharing
+
+#### フロントエンド
+募集・ピン機能、地図画面をメインに開発を行った。
+
+#### デザイン
+Adobe Illustratorを用いてロゴ、アイコンの制作を行った。
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/logo.png" alt="description 2" width="200" style="align-self: center;"/>
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/logo3.png" alt="description 2" width="200" style="align-self: center;"/>
+</div>
+<div style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/food.png" alt="example image 1" width="100"/>
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/sweets.png" alt="example image 2" width="100"/>
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/drink.png" alt="example image 3" width="100"/>
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/film.png" alt="example image 4" width="100"/>
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/sightseeing.png" alt="example image 5" width="100"/>
+    <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/random.png" alt="example image 6" width="100"/>
+</div>
+
+https://github.com/flatp/yuruimage
 
 ### エンジニアアルバイト
 #### 業務自動化
