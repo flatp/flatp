@@ -1,7 +1,7 @@
 # 所属
 京都大学大学院 情報学研究科 社会情報学コース ソーシャルメディアユニット 修士1年
 
-https://www.dl.soc.i.kyoto-u.ac.jp/
+[京都大学情報学研究科ソーシャルメディアユニットHP](https://www.dl.soc.i.kyoto-u.ac.jp/)
 
 # 経歴
 - 2020年4月　京都大学工学部情報学科 入学
@@ -30,7 +30,8 @@ precision@k，平均適合率，nDCGなどの複数のランキング評価指�
 ### 研究科主催アプリ開発コンペ準優勝
 コンテスト形式はハッカソンのようなもので、孤独な大学生に外出とコミュニケーションを促進させるために、コレクション機能を搭載した、地図上で気軽にイベントの作成・募集への参加を行える「ゆる募」アプリを作成した。フロントエンドとデザインを担当した。
 
-https://docs.google.com/presentation/d/16dW5mDs-E-b57yV1MlEZl2V_-FPJZE1hksmoilGRTjo/edit?usp=sharing
+[紹介スライド](https://docs.google.com/presentation/d/16dW5mDs-E-b57yV1MlEZl2V_-FPJZE1hksmoilGRTjo/edit?usp=sharing)
+[レポジトリ](https://github.com/team-yurubo/yuruboo)
 
 #### フロントエンド
 REACTを用いて募集・ピン機能、地図画面をメインに開発を行った。
@@ -50,7 +51,7 @@ Adobe Illustratorを用いてロゴ、アイコンの制作を行った。
     <img src="https://raw.githubusercontent.com/flatp/yuruimage/main/random.png" alt="example image 6" width="100"/>
 </div>
 
-https://github.com/flatp/yuruimage
+[レポジトリ](https://github.com/flatp/yuruimage)
 
 ### エンジニアアルバイト
 某コンサルタント株式会社でエンジニアアルバイトを体験し、以下の業務に携わった。（2023年4月～現在）
