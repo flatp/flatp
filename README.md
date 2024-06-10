@@ -39,7 +39,7 @@ Python
 [レポジトリ](https://github.com/team-yurubo/yuruboo)
 
 #### フロントエンド
-REACTを用いて募集・ピン機能、地図画面をメインに開発を行った。
+REACTを用いて募集・ピン機能、ホーム画面をメインに開発を行った。
 
 <img src="https://raw.githubusercontent.com/flatp/random/main/yuruboo.png" alt="example image 1" width="500"/>
 
